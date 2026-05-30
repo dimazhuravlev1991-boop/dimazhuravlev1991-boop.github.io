@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lubim.proizvoditel-betona.ru/price/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://lubim.proizvoditel-betona.ru/progrev_betona/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://lubim.proizvoditel-betona.ru/samovyvoz/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://lubim.proizvoditel-betona.ru/toshiy_beton/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://lubim.proizvoditel-betona.ru/tovarniy_beton/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://lubim.proizvoditel-betona.ru/tyazheliy_beton/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://lubim.proizvoditel-betona.ru/uslugi/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://lubim.proizvoditel-betona.ru/vakansii/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://lubim.proizvoditel-betona.ru/vopros_otvet/</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29948,54 @@
   </url>
   <url>
     <loc>https://perm.proizvoditel-betona.ru/goroda/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://perm.proizvoditel-betona.ru/kontakti/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://perm.proizvoditel-betona.ru/o_kompanii/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://perm.proizvoditel-betona.ru/otzyvy/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://perm.proizvoditel-betona.ru/peskobeton/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://perm.proizvoditel-betona.ru/price/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://perm.proizvoditel-betona.ru/progrev_betona/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://perm.proizvoditel-betona.ru/samovyvoz/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://perm.proizvoditel-betona.ru/toshiy_beton/</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
