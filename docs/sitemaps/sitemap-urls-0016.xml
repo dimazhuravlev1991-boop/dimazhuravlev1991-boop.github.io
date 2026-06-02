@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bogorodskoe.drovanadachu.ru/kolotyedrova/</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bogorodskoe.drovanadachu.ru/kontakti/</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bogorodskoe.drovanadachu.ru/kupitdrova/</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bogorodskoe.drovanadachu.ru/okompanii/</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bogorodskoe.drovanadachu.ru/olhovyedrova/</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://bogorodskoe.drovanadachu.ru/opilki/</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29966,36 @@
   </url>
   <url>
     <loc>https://chita.drova-na-dachu.ru/drova_optom/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chita.drova-na-dachu.ru/drova_pod_kluch/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chita.drova-na-dachu.ru/drova_s_razgruzkoy/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chita.drova-na-dachu.ru/drova_s_ukladkoy/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chita.drova-na-dachu.ru/drova_samosvalom/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chita.drova-na-dachu.ru/drova_upakovannye/</loc>
     <lastmod>2026-06-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
