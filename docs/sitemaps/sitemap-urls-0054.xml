@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/chistka_kolodca/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/dostavka/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/drenazhnye_kolodcy/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/goroda/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/kolca_zbi/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/kolodec_dlya_skvazhiny/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/kontakti/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/montazh_septika/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/o_kompanii/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kommunarka.stroy-kolodec.ru/otzyvy/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://kommunarka.stroy-kolodec.ru/price/</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://domodedovo.stroygrunt.ru/rastitelniy_grunt/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://domodedovo.stroygrunt.ru/sadoviy_grunt/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://domodedovo.stroygrunt.ru/torf/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://domodedovo.stroygrunt.ru/torfogrunt/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://domodedovo.stroygrunt.ru/universalniy_grunt/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://domodedovo.stroygrunt.ru/verhovoy_torf/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dubna.stroygrunt.ru/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dubna.stroygrunt.ru/akcii/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dubna.stroygrunt.ru/chernozem/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dubna.stroygrunt.ru/dostavka/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dubna.stroygrunt.ru/gazonniy_grunt/</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
