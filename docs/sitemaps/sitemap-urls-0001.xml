@@ -29587,12 +29587,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schelkovo.kamaz-drov.ru/berezovyedrova/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://schelkovo.kamaz-drov.ru/dostavkadrovpooblasti/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>daily</changefreq>
@@ -29606,12 +29600,6 @@
   </url>
   <url>
     <loc>https://schelkovo.kamaz-drov.ru/drovadlyakamina/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://schelkovo.kamaz-drov.ru/drovadlyaotopleniya/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29677,12 +29665,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://schelkovo.kamaz-drov.ru/kolkadrov/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://schelkovo.kamaz-drov.ru/kolotyedrova/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>daily</changefreq>
@@ -29696,12 +29678,6 @@
   </url>
   <url>
     <loc>https://schelkovo.kamaz-drov.ru/okompanii/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://schelkovo.kamaz-drov.ru/olhovyedrova/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29738,12 +29714,6 @@
   </url>
   <url>
     <loc>https://schelkovo.kamaz-drov.ru/toplivnyebrikety/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://schelkovo.kamaz-drov.ru/ugoldlyamangala/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29966,36 @@
   </url>
   <url>
     <loc>https://serebryannye-prudy.kamaz-drov.ru/drovazil/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://serebryannye-prudy.kamaz-drov.ru/faq/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://serebryannye-prudy.kamaz-drov.ru/goroda/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://serebryannye-prudy.kamaz-drov.ru/kolkadrov/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://serebryannye-prudy.kamaz-drov.ru/kolotyedrova/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://serebryannye-prudy.kamaz-drov.ru/kontakti/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
