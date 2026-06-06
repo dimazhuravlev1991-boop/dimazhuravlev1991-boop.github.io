@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://troick.drova-na-dachu.ru/zagotovka_drov_iz_vashego_lisa/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-na-dachu.ru/zagotovka_drov_na_zimu/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-na-dachu.ru/zagotovka_drov_pod_kluch/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-oblast.ru/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-oblast.ru/beresta/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-oblast.ru/drevesnaya-struzhka/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-oblast.ru/drevesniy-ugol/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-oblast.ru/drova-akaciya/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-oblast.ru/drova-berezovye/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://troick.drova-oblast.ru/drova-dubovye/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://troick.drova-oblast.ru/drova-klenovye/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://uhta.drovanadachu.ru/razgruzkadrov/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.drovanadachu.ru/schepadlyarozhiga/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.drovanadachu.ru/sosnovyedrova/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.drovanadachu.ru/suhayarastopka/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.drovanadachu.ru/suhiedrova/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.drovanadachu.ru/ugol/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.drovanadachu.ru/ukladkavpolennicu/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.drovanadachu.ru/zakazatdrova/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.drovanazimu.ru/drevesnaya-struzhka/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.grunt-snabzhenie.ru/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://uhta.grunt-snabzhenie.ru/akcii/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>

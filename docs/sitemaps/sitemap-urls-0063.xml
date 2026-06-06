@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xn--d1acdchahg0a1ao.xn--90ahb6a6cwa.xn--80adxhks/щебень_вторичный/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdchahg0a1ao.xn--90ahb6a6cwa.xn--80adxhks/щебень_гравийный/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdchahg0a1ao.xn--90ahb6a6cwa.xn--80adxhks/щебень_гранитный/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdchahg0a1ao.xn--90ahb6a6cwa.xn--80adxhks/щебень_известняковый/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdmgfldb8k.xn----8sbgublxkd5ai5i.xn--80adxhks/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdmgfldb8k.xn----8sbgublxkd5ai5i.xn--80adxhks/вермикомпост/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdmgfldb8k.xn----8sbgublxkd5ai5i.xn--80adxhks/города/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdmgfldb8k.xn----8sbgublxkd5ai5i.xn--80adxhks/конская_подстилка/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdmgfldb8k.xn----8sbgublxkd5ai5i.xn--80adxhks/конский_навоз/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--d1acdmgfldb8k.xn----8sbgublxkd5ai5i.xn--80adxhks/контакты/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://xn--d1acdmgfldb8k.xn----8sbgublxkd5ai5i.xn--80adxhks/коровий_навоз/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://zarechie.drova-na-dachu.ru/yasenevye_drova_v_setkah/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drova-na-dachu.ru/yasenevye_drova_v_yashikah/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drova-na-dachu.ru/zagotovka_drov/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drova-na-dachu.ru/zagotovka_drov_dlya_bani/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drova-na-dachu.ru/zagotovka_drov_dlya_dachi/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drova-na-dachu.ru/zagotovka_drov_dlya_doma/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drova-na-dachu.ru/zagotovka_drov_iz_vashego_lisa/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drova-na-dachu.ru/zagotovka_drov_na_zimu/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drova-na-dachu.ru/zagotovka_drov_pod_kluch/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drovanadachu.ru/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zarechie.drovanadachu.ru/akcii/</loc>
     <lastmod>2026-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
