@@ -1,42 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yaroslavl.kupit-kolotye-drova.ru/drova_kruglyakom/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yaroslavl.kupit-kolotye-drova.ru/drova_lipovye/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yaroslavl.kupit-kolotye-drova.ru/drova_meshkami/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yaroslavl.kupit-kolotye-drova.ru/drova_na_dom/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yaroslavl.kupit-kolotye-drova.ru/drova_navalom/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yaroslavl.kupit-kolotye-drova.ru/drova_olhovye/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://yaroslavl.kupit-kolotye-drova.ru/drova_optom/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29960,42 @@
   </url>
   <url>
     <loc>https://zhukovskiy.kupitberezovyedrova.ru/drova_na_zakaz/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zhukovskiy.kupitberezovyedrova.ru/drova_optom/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zhukovskiy.kupitberezovyedrova.ru/drova_v_roznicu/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zhukovskiy.kupitberezovyedrova.ru/drova_v_setkah/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zhukovskiy.kupitberezovyedrova.ru/drova_v_yashikah/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zhukovskiy.kupitberezovyedrova.ru/dubovye_drova/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zhukovskiy.kupitberezovyedrova.ru/elovye_drova/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
