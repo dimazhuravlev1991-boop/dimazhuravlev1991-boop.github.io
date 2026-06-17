@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://valuevo.stroy-kolodec.ru/remont_kolodca/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://valuevo.stroy-kolodec.ru/septik_iz_kolec/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://valuevo.stroy-kolodec.ru/uglublenie_kolodca/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29984,18 @@
   </url>
   <url>
     <loc>https://vladivostok.kupitberezovyedrova.ru/raspil_drov/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladivostok.kupitberezovyedrova.ru/razgruzka_i_zanos_drov/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladivostok.kupitberezovyedrova.ru/smeshannye_drova/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>

@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vladivostok.kupitberezovyedrova.ru/razgruzka_i_zanos_drov/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vladivostok.kupitberezovyedrova.ru/smeshannye_drova/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://vladivostok.kupitberezovyedrova.ru/sosnovye_drova/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29984,18 @@
   </url>
   <url>
     <loc>https://voskresensk.dostavka-drov.ru/drova-kolotye/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://voskresensk.dostavka-drov.ru/drova-listvennica/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://voskresensk.dostavka-drov.ru/drova-olhovye/</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
