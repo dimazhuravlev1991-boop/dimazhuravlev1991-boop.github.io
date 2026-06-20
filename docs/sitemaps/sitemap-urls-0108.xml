@@ -12847,24 +12847,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://saransk.kolotyedrova.ru/drova_berezovye/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://saransk.kolotyedrova.ru/drova_kolotye/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://saransk.kolotyedrova.ru/opilki/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://saransk.kupit-drova-dostavka.ru/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29978,24 @@
   </url>
   <url>
     <loc>https://serebryannye-prudy.kamazdrov.ru/drovavsetkah/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://serebryannye-prudy.kamazdrov.ru/goroda/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://serebryannye-prudy.kamazdrov.ru/kontakti/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://serebryannye-prudy.kamazdrov.ru/opilki/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
