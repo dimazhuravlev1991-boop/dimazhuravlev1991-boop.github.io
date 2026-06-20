@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://syktyvkar.kolodec1.ru/akcii/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://syktyvkar.kolodec1.ru/burenie_kolodca/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://syktyvkar.kolodec1.ru/chistka_kolodca/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://syktyvkar.kolodec1.ru/domiki_dlya_kolodca/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29978,24 @@
   </url>
   <url>
     <loc>https://kommunarka.drovamoskva.ru/price/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kommunarka.drovanadachu.ru/drovaoptom/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kommunarka.drovanadachu.ru/drovapodpech/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kommunarka.drovanadachu.ru/faq/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
