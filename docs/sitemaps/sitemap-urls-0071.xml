@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://selyatino.asfaltm2.ru/stroitelstvo_dorog/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selyatino.asfaltm2.ru/ukladka_asfalta/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selyatino.asfaltm2.ru/ukladka_asfaltovoy_kroshki/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selyatino.asfaltm2.ru/yamochniy_remont/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://serebryannye-prudy.asfaltm2.ru/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://serebryannye-prudy.asfaltm2.ru/asfaltirovanie_dachnogo_uchastka/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://serebryannye-prudy.asfaltm2.ru/asfaltirovanie_dorog/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://serebryannye-prudy.asfaltm2.ru/asfaltirovanie_dorozhek/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://serebryannye-prudy.asfaltm2.ru/asfaltirovanie_dvorov/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://serebryannye-prudy.asfaltm2.ru/asfaltirovanie_malyh_ploshadey/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://serebryannye-prudy.asfaltm2.ru/asfaltirovanie_parkovki/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://asfaltpodkluch.ru/yamochniy_remont/butovo/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/cherepovo/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/cherkizovo/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/chernogolovka/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/davydovo/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/dedenevo/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/dedovsk/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/demihovo/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/dmitrov/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/dolgoprudniy/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltpodkluch.ru/yamochniy_remont/domodedovo/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
