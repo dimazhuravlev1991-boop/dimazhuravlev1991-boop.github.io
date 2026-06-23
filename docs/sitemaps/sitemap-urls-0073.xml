@@ -21685,24 +21685,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cheboksary.kolotyedrova.ru/beresta/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cheboksary.kolotyedrova.ru/drevesniy_ugol/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cheboksary.kolotyedrova.ru/drevrsnaya_struzhka/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://cheboksary.kolotyedrova.ru/drova_akaciya/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
@@ -21721,18 +21703,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cheboksary.kolotyedrova.ru/drova_klenovye/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cheboksary.kolotyedrova.ru/drova_kolotye/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://cheboksary.kolotyedrova.ru/drova_listvennica/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
@@ -21746,24 +21716,6 @@
   </url>
   <url>
     <loc>https://cheboksary.kolotyedrova.ru/drova_osinovye/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cheboksary.kolotyedrova.ru/drova_sosnovye/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cheboksary.kolotyedrova.ru/drova_v_setkah/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cheboksary.kolotyedrova.ru/kontakti/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29948,54 @@
   </url>
   <url>
     <loc>https://cherepovec.otoplenie-drovami.ru/drovaosinovye/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cherepovec.otoplenie-drovami.ru/drovasosnovye/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cherepovec.otoplenie-drovami.ru/drovavsetkah/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cherepovec.otoplenie-drovami.ru/faq/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cherepovec.otoplenie-drovami.ru/foto/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cherepovec.otoplenie-drovami.ru/goroda/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cherepovec.otoplenie-drovami.ru/kontakti/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cherepovec.otoplenie-drovami.ru/onas/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cherepovec.otoplenie-drovami.ru/opilki/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
