@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://malino.kupitkeramzit.ru/keramzit_v_meshkah/</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://malino.kupitkeramzit.ru/keramzitoviy_graviy/</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://malino.kupitkeramzit.ru/kontakti/</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://malino.kupitkeramzit.ru/otzyvy/</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://malino.kupitkeramzit.ru/price/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29972,30 @@
   </url>
   <url>
     <loc>https://upiter.kupitkeramzit.ru/price/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://upiter.kupitkeramzit.ru/uslugi/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://urev-polskiy.kupitkeramzit.ru</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://urev-polskiy.kupitkeramzit.ru/goroda/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://urev-polskiy.kupitkeramzit.ru/keramzit_0_5mm/</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
