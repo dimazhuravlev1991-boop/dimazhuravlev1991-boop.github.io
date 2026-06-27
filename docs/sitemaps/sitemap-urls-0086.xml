@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://krasnoarmeysk.drova-na-dachu.ru/drova_upakovannye/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoarmeysk.drova-na-dachu.ru/drova_v_korobkah/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://krasnoarmeysk.drova-na-dachu.ru/drova_v_meshkah/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
@@ -13705,25 +13693,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://krasnoznamensk.drovamoskva.ru/beresta/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drevesnaya-struzhka/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drevesniy-ugol/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -13735,55 +13705,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drova-berezovye/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drova-dubovye/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drova-klenovye/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drova-kolotye/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://krasnoznamensk.drovamoskva.ru/drova-listvennica/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drova-olhovye/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drova-osinovye/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drova-sosnovye/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/drova-v-setkah/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -13808,12 +13730,6 @@
   </url>
   <url>
     <loc>https://krasnoznamensk.drovamoskva.ru/otzyvy/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://krasnoznamensk.drovamoskva.ru/price/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29912,90 @@
   </url>
   <url>
     <loc>https://anapa.kupitkeramzit.ru/otzyvy/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://anapa.kupitkeramzit.ru/price/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://anapa.kupitkeramzit.ru/uslugi/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/goroda/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzit_0_5mm/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzit_10_20mm/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzit_20_40mm/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzit_5_10mm/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzit_cvetnoy/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzit_rossypiy/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzit_v_big_begah/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzit_v_meshkah/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/keramzitoviy_graviy/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://andreevka.kupitkeramzit.ru/kontakti/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
