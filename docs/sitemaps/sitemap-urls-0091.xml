@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_kruglyakom/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_na_dom/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_navalom/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_optom/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_pod_kluch/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_s_razgruzkoy/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_s_ukladkoy/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_samosvalom/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_upakovannye/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magnitogorsk.drova-na-dachu.ru/drova_v_korobkah/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://magnitogorsk.drova-na-dachu.ru/drova_v_meshkah/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/voshod/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/voskresensk/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/vostryakovo/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/vysokovsk/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/yahroma/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/yakovlevskoe/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/zagoryanskiy/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/zaprudnya/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/zaraysk/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/zarechie/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_malyh_ploshadey/zelenograd/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
