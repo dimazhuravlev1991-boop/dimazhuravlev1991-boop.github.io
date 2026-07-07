@@ -28879,30 +28879,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/drevesniy_ugol/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_akaciya/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_berezovye/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_dubovye/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_klenovye/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
@@ -28915,18 +28891,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_listvennica/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_olhovye/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_osinovye/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
@@ -28934,30 +28898,6 @@
   </url>
   <url>
     <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_sosnovye/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/drova_v_setkah/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/kontakti/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/o_kompanii/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.dostavka-drovishek.ru/opilki/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://pyatigorsk.drova-na-zimu.ru/beresta/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drevesnaya-struzhka/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drevesniy-ugol/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drova-akaciya/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drova-berezovye/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drova-dubovye/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drova-klenovye/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drova-kolotye/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drova-listvennica/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drova-olhovye/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pyatigorsk.drova-na-zimu.ru/drova-osinovye/</loc>
     <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
