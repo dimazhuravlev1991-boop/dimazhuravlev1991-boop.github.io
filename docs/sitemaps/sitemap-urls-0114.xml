@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://uspenskoe.drovanadachu.ru/drovadlyaotopleniya/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/drovadlyapechi/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/drovanasezon/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/drovanedorogo/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/drovaoptom/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/drovapodpech/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/drovaporayonam/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/drovavsetkah/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/dubovyedrova/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://uspenskoe.drovanadachu.ru/faq/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://uspenskoe.drovanadachu.ru/garantiya/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://vladikavkaz.drova-na-dachu.ru/srochnaya_dostavka_drov/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/suhie_drova/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/suhie_drova_berezovye/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/suhie_drova_dlya_bani/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/suhie_drova_dlya_doma/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/suhie_drova_dlya_kamina/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/suhie_drova_dubovye/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/suhie_drova_estestvennoy_sushki/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/suhie_drova_kamernoy_sushki/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/sushka_berezovyh_drov/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vladikavkaz.drova-na-dachu.ru/sushka_drov/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
