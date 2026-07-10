@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://volzhskiy.proizvoditel-betona.ru/akcii/</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://volzhskiy.proizvoditel-betona.ru/beton_dlya_fundamenta/</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://volzhskiy.proizvoditel-betona.ru/beton_m100/</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://volzhskiy.proizvoditel-betona.ru/beton_m1000/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29978,24 @@
   </url>
   <url>
     <loc>https://pskov.drovaoblast.ru/drevesnaya-struzhka/</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pskov.drovaoblast.ru/drevesniy-ugol/</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pskov.drovaoblast.ru/drova-berezovye/</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pskov.drovaoblast.ru/drova-dubovye/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
