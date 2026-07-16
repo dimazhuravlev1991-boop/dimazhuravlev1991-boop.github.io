@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://zelenograd.stroy-kolodec.ru/septik_iz_kolec/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zelenograd.stroy-kolodec.ru/uglublenie_kolodca/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zelenograd.stroy-kolodec.ru/vakansii/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://zelenograd.stroy-kolodec.ru/vodosnabzhenie/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>

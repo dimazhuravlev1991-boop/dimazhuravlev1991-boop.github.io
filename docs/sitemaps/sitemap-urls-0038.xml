@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://privokzalniy.stroy-kolodec.ru/o_kompanii/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://privokzalniy.stroy-kolodec.ru/otzyvy/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://privokzalniy.stroy-kolodec.ru/price/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://privokzalniy.stroy-kolodec.ru/remont_kolodca/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
@@ -29978,24 +29996,6 @@
   </url>
   <url>
     <loc>https://pyatigorsk.drova-na-dachu.ru/drova_dlya_sauny/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.drova-na-dachu.ru/drova_dlya_shashlyka/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.drova-na-dachu.ru/drova_dlya_teplicy/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://pyatigorsk.drova-na-dachu.ru/drova_dlya_usadby/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
