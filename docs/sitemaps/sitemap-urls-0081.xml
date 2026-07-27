@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://izhevsk.bereza-drova.ru/kontakti/</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://izhevsk.bereza-drova.ru/o_kompanii/</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://izhevsk.bereza-drova.ru/opilki/</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://izhevsk.bereza-drova.ru/price/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29978,24 @@
   </url>
   <url>
     <loc>https://kirov.kupitdrovadostavka.ru/opilki/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kirov.kupitdrovadostavka.ru/price/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kirov.kupitdrovishki.ru/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kirov.kupitdrovishki.ru/akcii/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>

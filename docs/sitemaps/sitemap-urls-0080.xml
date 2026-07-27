@@ -6205,24 +6205,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://himki.kolotyedrova.ru/drova_listvennica/</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://himki.kolotyedrova.ru/drova_olhovye/</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://himki.kolotyedrova.ru/kontakti/</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://himki.kupit-drova-dostavka.ru/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29978,24 @@
   </url>
   <url>
     <loc>https://izhevsk.bereza-drova.ru/foto/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://izhevsk.bereza-drova.ru/kontakti/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://izhevsk.bereza-drova.ru/o_kompanii/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://izhevsk.bereza-drova.ru/opilki/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
