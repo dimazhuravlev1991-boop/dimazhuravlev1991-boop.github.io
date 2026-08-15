@@ -15433,12 +15433,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lobanovo.kupit-drovishki.ru/drovalistvennica/</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://lobanovo.kupit-drovishki.ru/drovaolhovye/</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>daily</changefreq>
@@ -15463,12 +15457,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lobanovo.kupit-drovishki.ru/kontakti/</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://lobanovo.kupit-drovishki.ru/opilki/</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>daily</changefreq>
@@ -15476,12 +15464,6 @@
   </url>
   <url>
     <loc>https://lobanovo.kupit-drovishki.ru/otzyvy/</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://lobanovo.kupit-drovishki.ru/price/</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29978,24 @@
   </url>
   <url>
     <loc>https://luhovicy.kupitberezovyedrova.ru/drova_kamernoy_sushki/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://luhovicy.kupitberezovyedrova.ru/drova_kruglyak/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://luhovicy.kupitberezovyedrova.ru/drova_na_zakaz/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://luhovicy.kupitberezovyedrova.ru/drova_optom/</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
