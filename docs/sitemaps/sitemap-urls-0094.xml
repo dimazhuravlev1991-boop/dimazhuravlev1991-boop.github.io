@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://naro-fominsk.drova-na-dachu.ru/drova_dlya_kopcheniya_chereshnya/</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://naro-fominsk.drova-na-dachu.ru/drova_dlya_kopcheniya_dub/</loc>
     <lastmod>2026-08-16</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29990,12 @@
   </url>
   <url>
     <loc>https://noviy-urengoy.drova-na-dachu.ru/drova_dlya_kotla/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noviy-urengoy.drova-na-dachu.ru/drova_dlya_kottedzha/</loc>
     <lastmod>2026-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
