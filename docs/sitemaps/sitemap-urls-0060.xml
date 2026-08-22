@@ -24823,19 +24823,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kamaz-drov.ru/drovadlyakamina/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://kamaz-drov.ru/drovadlyaotopleniya/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kamaz-drov.ru/drovadlyapechi/</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -24853,25 +24841,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kamaz-drov.ru/drovanavalom/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kamaz-drov.ru/drovasdostavkoy/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://kamaz-drov.ru/drovavmeshkah/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kamaz-drov.ru/drovavsetkah/</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -24907,19 +24877,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kamaz-drov.ru/kontakti/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://kamaz-drov.ru/okompanii/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kamaz-drov.ru/olhovyedrova/</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -24943,25 +24901,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kamaz-drov.ru/srochnayadostavka/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kamaz-drov.ru/suhiedrova/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://kamaz-drov.ru/toplivnyebrikety/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kamaz-drov.ru/ugoldlyamangala/</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://malahovka.kamaz-drov.ru/toplivnyebrikety/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://malahovka.kamaz-drov.ru/ugoldlyamangala/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://malahovka.kamaz-drov.ru/ukladkadrov/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marfino.kamaz-drov.ru/berezovyedrova/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marfino.kamaz-drov.ru/dostavkadrovpooblasti/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marfino.kamaz-drov.ru/drovadlyabani/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marfino.kamaz-drov.ru/drovadlyakamina/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marfino.kamaz-drov.ru/drovadlyaotopleniya/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marfino.kamaz-drov.ru/drovadlyapechi/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marfino.kamaz-drov.ru/drovagazel/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://marfino.kamaz-drov.ru/drovakamaz/</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
