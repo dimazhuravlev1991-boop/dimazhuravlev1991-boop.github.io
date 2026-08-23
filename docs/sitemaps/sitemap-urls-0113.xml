@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://vyksa.kupit-kolotye-drova.ru/o_nas/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vyksa.kupit-kolotye-drova.ru/otzyvy/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vyksa.kupit-kolotye-drova.ru/pilka_drov/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vyksa.kupit-kolotye-drova.ru/price/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://vyksa.kupit-kolotye-drova.ru/product/</loc>
     <lastmod>2026-08-23</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29972,30 @@
   </url>
   <url>
     <loc>https://xn--80aekkj6a.xn----8sbgublxkd5ai5i.xn--80adxhks/навоз_в_гранулах/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn--80aekkj6a.xn----8sbgublxkd5ai5i.xn--80adxhks/навоз_в_мешках/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn--80aekkj6a.xn----8sbgublxkd5ai5i.xn--80adxhks/перегной_конского_навоза/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn--80aekkj6a.xn----8sbgublxkd5ai5i.xn--80adxhks/перегной_коровьего_навоза/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn--80aekkj6a.xn----8sbgublxkd5ai5i.xn--80adxhks/птичий_помёт_с_опилками/</loc>
     <lastmod>2026-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
