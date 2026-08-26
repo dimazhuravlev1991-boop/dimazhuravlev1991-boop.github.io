@@ -475,19 +475,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/dostavka_drov/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/drova_berezovye/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/drova_dlya_bani/</loc>
     <lastmod>2026-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -589,12 +577,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/drova_navalom/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/drova_olhovye/</loc>
     <lastmod>2026-08-26</lastmod>
     <changefreq>daily</changefreq>
@@ -613,12 +595,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/drova_pod_kluch/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/drova_sosnovye/</loc>
     <lastmod>2026-08-26</lastmod>
     <changefreq>daily</changefreq>
@@ -626,12 +602,6 @@
   </url>
   <url>
     <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/drova_suhie/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/drova_v_setkah/</loc>
     <lastmod>2026-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -740,12 +710,6 @@
   </url>
   <url>
     <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/upakovannye_drova/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yoshkar-ola.kupit-kolotye-drova.ru/zagotovka_drov/</loc>
     <lastmod>2026-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
