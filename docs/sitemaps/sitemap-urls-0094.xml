@@ -1,42 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://novinki.drova-na-dachu.ru/suhie_drova_kamernoy_sushki/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://novinki.drova-na-dachu.ru/sushka_berezovyh_drov/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://novinki.drova-na-dachu.ru/sushka_drov/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://novinki.drova-na-dachu.ru/sushka_dubovyh_drov/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://novinki.drova-na-dachu.ru/sushka_hvoynyh_drov/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://novinki.drova-na-dachu.ru/sushka_olhovyh_drov/</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://novinki.drova-na-dachu.ru/sushka_yasenevyh_drov/</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>daily</changefreq>
@@ -29996,6 +29960,42 @@
   </url>
   <url>
     <loc>https://orel.drovanadachu.ru/dostavka/</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orel.drovanadachu.ru/dostavkadrovpoadresu/</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orel.drovanadachu.ru/dostavkaponapravleniyam/</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orel.drovanadachu.ru/dostavkavdenzakaza/</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orel.drovanadachu.ru/drevesnayastruzhka/</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orel.drovanadachu.ru/drovadlyabani/</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://orel.drovanadachu.ru/drovadlyadachi/</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
