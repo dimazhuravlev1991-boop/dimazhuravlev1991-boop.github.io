@@ -11893,24 +11893,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/akcii/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/dostavka_drov/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://butovo.kupit-kolotye-drova.ru/drova_berezovye/</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
@@ -11923,55 +11905,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_dlya_dachi/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_dlya_doma/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_dlya_kamina/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_dlya_kostra/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_dlya_mangala/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_dlya_otopleniya/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_dlya_pechki/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://butovo.kupit-kolotye-drova.ru/drova_dlya_shashlyka/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_dubovye/</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -12001,18 +11935,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_lipovye/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_meshkami/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://butovo.kupit-kolotye-drova.ru/drova_na_dom/</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
@@ -12020,18 +11942,6 @@
   </url>
   <url>
     <loc>https://butovo.kupit-kolotye-drova.ru/drova_navalom/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_olhovye/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_optom/</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -12062,18 +11972,6 @@
   </url>
   <url>
     <loc>https://butovo.kupit-kolotye-drova.ru/drova_v_setkah/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_v_yashikah/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/drova_yasenevye/</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -12115,12 +12013,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/pilka_drov/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://butovo.kupit-kolotye-drova.ru/price/</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
@@ -12145,19 +12037,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/sushka_drov/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://butovo.kupit-kolotye-drova.ru/toplivnye_brikety/</loc>
-    <lastmod>2026-08-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://butovo.kupit-kolotye-drova.ru/ugol_dlya_otopleniya/</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29876,126 @@
   </url>
   <url>
     <loc>https://dedovsk.otoplenie-drovami.ru/drovavsetkah/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dedovsk.otoplenie-drovami.ru/faq/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dedovsk.otoplenie-drovami.ru/foto/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dedovsk.otoplenie-drovami.ru/goroda/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dedovsk.otoplenie-drovami.ru/kontakti/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dedovsk.otoplenie-drovami.ru/onas/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dedovsk.otoplenie-drovami.ru/opilki/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dedovsk.otoplenie-drovami.ru/otzyvy/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/goroda/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/kontakti/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/otzyvy/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_btr/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_buldozera/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_burovyh_ustanovok/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_bytovok/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_drobilki/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_emkostey/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_exkavatora/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_katka/</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://demihovo.1negabarit.ru/perevozka_katushek/</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
