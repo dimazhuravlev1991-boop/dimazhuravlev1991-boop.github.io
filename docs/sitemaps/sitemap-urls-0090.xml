@@ -23785,12 +23785,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/dostavka_drov/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/drova_berezovye/</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -23815,19 +23809,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/drova_dlya_kamina/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/drova_dlya_kostra/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/drova_dlya_mangala/</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -23954,24 +23936,6 @@
   </url>
   <url>
     <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/drova_yasenevye/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/evrodrova/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/garantii/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mezhdurechensk.kupit-kolotye-drova.ru/kolka_drov/</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29960,42 @@
   </url>
   <url>
     <loc>https://mo-asfalt.ru/asfaltirovanie_dachnogo_uchastka/vereya/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_dachnogo_uchastka/vereyka/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_dachnogo_uchastka/verhnee-myachkovo/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_dachnogo_uchastka/verhovie/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_dachnogo_uchastka/vidnoe/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_dachnogo_uchastka/vishnyakovskie-dachi/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mo-asfalt.ru/asfaltirovanie_dachnogo_uchastka/vnukovo/</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
