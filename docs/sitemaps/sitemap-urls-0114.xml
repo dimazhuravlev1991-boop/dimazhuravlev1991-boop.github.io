@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yakovlevskoe.stroy-kolodec.ru/goroda/</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yakovlevskoe.stroy-kolodec.ru/kolca_zbi/</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yakovlevskoe.stroy-kolodec.ru/kolodec_dlya_skvazhiny/</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yakovlevskoe.stroy-kolodec.ru/kontakti/</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://yakovlevskoe.stroy-kolodec.ru/montazh_septika/</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
