@@ -3139,43 +3139,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/города/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/конская_подстилка/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/конский_навоз/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/контакты/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/коровий_навоз/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/кроличий_навоз/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/куриный_компост/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -3212,12 +3182,6 @@
   </url>
   <url>
     <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/свиной_навоз/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://xn--b1adaae4bnbdb.xn----8sbgublxkd5ai5i.xn--80adxhks/цены/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29960,42 @@
   </url>
   <url>
     <loc>https://zelenogradskiy.drova-na-dachu.ru/lipovye_drova_v_meshkah/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zelenogradskiy.drova-na-dachu.ru/lipovye_drova_v_setkah/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zelenogradskiy.drova-na-dachu.ru/miks_navalom/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zelenogradskiy.drova-na-dachu.ru/o_kompanii/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zelenogradskiy.drova-na-dachu.ru/olha_navalom/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zelenogradskiy.drova-na-dachu.ru/olhovye_drova/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zelenogradskiy.drova-na-dachu.ru/osina_navalom/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
