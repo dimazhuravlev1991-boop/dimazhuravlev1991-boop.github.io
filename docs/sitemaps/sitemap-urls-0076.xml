@@ -29107,18 +29107,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fryanovo.derevo-drova.ru/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://fryanovo.derevo-drova.ru/beresta/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://fryanovo.derevo-drova.ru/drevesnayastruzhka/</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>daily</changefreq>
@@ -29137,49 +29125,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fryanovo.derevo-drova.ru/drovaberezovye/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://fryanovo.derevo-drova.ru/drovadubovye/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://fryanovo.derevo-drova.ru/drovaklenovye/</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fryanovo.derevo-drova.ru/drovakolotye/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://fryanovo.derevo-drova.ru/drovalistvennica/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://fryanovo.derevo-drova.ru/drovaolhovye/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://fryanovo.derevo-drova.ru/drovaosinovye/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://fryanovo.derevo-drova.ru/drovasosnovye/</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29198,18 +29150,6 @@
   </url>
   <url>
     <loc>https://fryanovo.derevo-drova.ru/kontakti/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://fryanovo.derevo-drova.ru/okompanii/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://fryanovo.derevo-drova.ru/opilki/</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://fryanovo.drovanadachu.ru/ukladkavpolennicu/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.drovanadachu.ru/zakazatdrova/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/akcii/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/chernozem/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/dostavka/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/gazonniy_grunt/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/goroda/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/kontakti/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/nizinniy_torf/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://fryanovo.grunt-snabzhenie.ru/o_kompanii/</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
