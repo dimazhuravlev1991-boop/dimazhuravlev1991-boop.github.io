@@ -14785,18 +14785,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arhangelsk.derevo-drova.ru/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arhangelsk.derevo-drova.ru/beresta/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://arhangelsk.derevo-drova.ru/drevesnayastruzhka/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
@@ -14821,18 +14809,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arhangelsk.derevo-drova.ru/drovadubovye/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arhangelsk.derevo-drova.ru/drovaklenovye/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://arhangelsk.derevo-drova.ru/drovakolotye/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
@@ -14845,37 +14821,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arhangelsk.derevo-drova.ru/drovaolhovye/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arhangelsk.derevo-drova.ru/drovaosinovye/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://arhangelsk.derevo-drova.ru/drovasosnovye/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arhangelsk.derevo-drova.ru/drovavsetkah/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arhangelsk.derevo-drova.ru/goroda/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arhangelsk.derevo-drova.ru/kontakti/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -14888,12 +14834,6 @@
   </url>
   <url>
     <loc>https://arhangelsk.derevo-drova.ru/opilki/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://arhangelsk.derevo-drova.ru/oplata/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29996,6 +29936,66 @@
   </url>
   <url>
     <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/sergiev-posad/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/sergiev-posad/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/serpuhov/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/serpuhov/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/severniy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/shahovskaya/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/sharapovo/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/sharapovo/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/shatura/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/shatura/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asfaltirovaniedvorov.ru/asfaltirovanie_dachnogo_uchastka/shaturtorf/</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
